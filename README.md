@@ -12,7 +12,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Commit and Push Change from Command Line    | https://github.com/Camibee/ppchem/commit/bb12a589eaa0d625bb1b6971049240b178ffbafd                |
 | 1    | Create a New Branch                         | https://github.com/Camibee/ppchem/tree/new-branch-creation           |
 | 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | Fork a Repo                                 | https://github.com/Camibee/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 | 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
