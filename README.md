@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/camibee                                               | 
 | 1    | Github Profile Page                         | https://github.com/camibee/camibee                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`camibee`/`ppchem`/commit/`commit-nr`                |
+| 1    | Commit and Push Change from Command Line    | ]https://github.com/Camibee/ppchem/commit/bb12a589eaa0d625bb1b6971049240b178ffbafd                |
 | 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
 | 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
